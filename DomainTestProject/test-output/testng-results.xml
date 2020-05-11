@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95029" started-at="2020-05-11T00:13:00Z" finished-at="2020-05-11T00:14:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95029" started-at="2020-05-11T00:13:00Z" finished-at="2020-05-11T00:14:35Z">
+      <class name="com.domain.test.LoginTest">
+        <test-method status="PASS" signature="sucessfulLoginTest()[pri:1, instance:com.domain.test.LoginTest@72d818d1]" name="sucessfulLoginTest" duration-ms="52174" started-at="2020-05-11T00:13:00Z" finished-at="2020-05-11T00:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sucessfulLoginTest -->
+        <test-method status="PASS" signature="unsucessfulLoginTest()[pri:2, instance:com.domain.test.LoginTest@72d818d1]" name="unsucessfulLoginTest" duration-ms="42816" started-at="2020-05-11T00:13:52Z" finished-at="2020-05-11T00:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unsucessfulLoginTest -->
+      </class> <!-- com.domain.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
