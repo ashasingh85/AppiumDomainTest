@@ -9,3 +9,5 @@ Prerequisite: Make sure Domain real estate app is installed in andriod emulator/
 How to run: Download the project
 	        Run with LoginTest.java class using Testng
 	        If you want to change the username and password, chnage it in data.properties file and run the test
+		
+Domain real estate app version:2020050323
